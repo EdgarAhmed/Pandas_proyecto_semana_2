@@ -1,4 +1,5 @@
 # Pandas_proyecto_semana_2
-![portada](/Users/edgarahmed/Desktop/ironhack/Semana_2/Pandas_proyecto_semana_2/Pics/jaws.webp)
+![portada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjaws.fandom.com%2Fwiki%2FJaws&psig=AOvVaw3SycwRr0qXkszvzLH6geIu&ust=1697874129802000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCG45WQhIIDFQAAAAAdAAAAABAD)
 
-Proyecto sobre los pandas
+Proyecto sobre los tiburones
+
